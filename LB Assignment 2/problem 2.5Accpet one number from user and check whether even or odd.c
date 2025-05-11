@@ -25,7 +25,7 @@ int main()
     printf(" even number");
     }
     else{
-        printf("not even number");
+        printf("odd number");
     }
 
     return 0;
