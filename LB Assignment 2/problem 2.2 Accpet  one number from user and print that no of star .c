@@ -1,12 +1,12 @@
 #include<stdio.h>
-void display(int No)
+void display(int iNo)
 {
 
-    int iCnt= No;
-    while(iCnt>0)
+    int iCnt= 0;
+    while(iNo>iCnt)
     {
        printf("*"); 
-       iCnt--;
+       iNo--;
     }
 }
 int main()
