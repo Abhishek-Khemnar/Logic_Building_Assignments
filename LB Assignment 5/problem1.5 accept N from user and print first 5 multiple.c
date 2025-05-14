@@ -19,3 +19,4 @@ int main()
 
     return 0;
 }
+//Time Complxity O(5)
