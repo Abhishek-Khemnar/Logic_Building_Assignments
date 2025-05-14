@@ -20,3 +20,4 @@ int main()
     NonFact(ivalue);
     return 0;
 }
+//Time Complexity O(N)
