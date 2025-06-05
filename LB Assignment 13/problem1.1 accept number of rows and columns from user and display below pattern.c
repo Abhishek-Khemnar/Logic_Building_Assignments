@@ -8,9 +8,9 @@ void Pattern(int iCol,int iRow)
     {
         for(int j = 1,ch ='A'; j<=iCol;j++,ch++)
         {
-            {
+            
             printf("%c\t",ch);
-            }
+            
             
         }
         printf("\n");
