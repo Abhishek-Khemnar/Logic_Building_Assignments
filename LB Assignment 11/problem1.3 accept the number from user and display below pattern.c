@@ -2,7 +2,7 @@
 void Pattern(int No)
 {
     
-    for (int iCnt = No ; iCnt>0 ; iCnt--)
+    for (int iCnt = 1 ; iCnt<=No ; iCnt++)
     {
       printf("%d\t *\t",iCnt);
     }
