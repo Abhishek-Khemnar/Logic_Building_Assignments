@@ -3,7 +3,7 @@ void Pattern(int iCol,int iRow)
 {
     int number =1;
 
-    for(int i = iRow; i>0 ; i--)
+    for(int i = 1; i<=iRow ; i++)
     {
         for(int  j = 1 ; j<=iCol;j++)
         {
